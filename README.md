@@ -1,0 +1,1 @@
+# digital_journal_application
